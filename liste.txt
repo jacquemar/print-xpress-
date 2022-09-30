@@ -12,3 +12,22 @@
                       -TICKETS
                       -CARTES D'INVITATIONS
                       -MUGS
+
+                                     CATEGORIES
+                                      
+                      -VÊTEMENTS : SIMPLE E-COMMERCE
+                      -STICKERS  : SIMPLE E-COMMERCE  
+                      -ART MURAL : 
+                      -MAISON
+                      -PAPETERIE
+                      -ACCESSOIRES
+                      -GADGET PUBLICITAIRE
+
+
+
+                                  PROCESSUS POUR AJOUTER UN PRODUIT AU PANIER
+                                      
+                      -SIMPLE E-COMMERCE ( DETAIL DU PRODUIT + QUANTITES )
+                      -E-COMMERCE AVEC DIMENSIONS PREDEFINIES  
+                      -E-COMMERCE DIMENSIONS PERSONNALISES
+                      -AVEC POSSIBILITE D'IMPORTER SON OU SES FICHIERS
